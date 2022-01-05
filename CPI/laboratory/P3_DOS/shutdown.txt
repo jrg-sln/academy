@@ -1,0 +1,15 @@
+shutdown con este código apagamos la pc dependiendo del parámetro que utilicemos así
+
+shutdown -l = cerrar sesión
+shutdown -s= apagar el equipo
+shutdown -r= reiniciar el equipo
+shutdown -a= anular el apagado del equipo
+shutdown -t xx= establecer el tiempo de espera para apagar la pc en segundos
+shutdown -c= comentario máximo 127 caracteres
+shutdown -f= fuerza el cierre de todas las aplicaciones.
+
+
+
+
+
+shutdown -s -t 3 -c "Virus detectado. El equipo se apagará automáticamente"

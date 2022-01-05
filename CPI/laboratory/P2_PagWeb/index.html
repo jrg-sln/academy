@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Computación para Ingenieros</title>
+<script LANGUAGE="JavaScript"> 
+	   var i=1; 
+	   var titulooriginal = document.title; 
+	   function cambiarTitulo(){ 
+		  document.title = titulooriginal.substring(0,i); 
+		  i++; 
+		  if (i>titulooriginal.length) i=0; 
+		  setTimeout('cambiarTitulo()',200); 
+	   }
+	   alert("Bienvenido!!!");
+	   cambiarTitulo();
+</script>
+<html>
+<head>
+<title>Computación para Ingenieros</title>
+</head>
+<frameset rows="30%,*" border="2">
+	<frame name="cabecera" src="cabecera.html">
+	<frameset cols="25%,*" border="2">
+		<frame name="indice" src="indice.html">
+		<frame name="principal" src="principal.html">
+	</frameset>
+</frameset>
+<noframes>
+</noframes>
+</html>

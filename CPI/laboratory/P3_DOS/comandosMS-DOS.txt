@@ -1,0 +1,34 @@
+//ver				// versión de ms-dos
+dir				// muestra contenido carpeta actual
+mkdir nombreDirec		// crea directorio
+md nombreDirec			// crea directorio
+cd rutaDirectorio		// cambia al directorio
+*tabulador
+cd ..				// sale del directorio
+cd \				// se cambia al directorio C
+notepad nombreArchivo		// abre/crea nombreArchivo
+nombreArchivo			// abre nombreArchivo
+copy nombreArchivo Destino	// copia archivo a Destino
+//xcopy directorio destino	// copia directorio a destino
+cls				// borrar pantalla
+clear				// borra pantalla pwsh
+ren nombreArchivo		// cambia nombre a archivo
+move nombreArchivo Destino	// corta y pega archivo en destino
+del archivo			// elimina archivo
+erase archivo			// elimina archivo
+edit archivoTexto		// edita el archivo
+type archivo			// muestra contenido de archivo
+ipconfig /all			// características de las tarjetas de red
+netstat				// Status de la red
+nslookup			// Obtiene direcciones ip
+calc				// ejecuta la calculadora
+explorer			// ejecuta explorador windows
+mspaint				// ejecuta paint
+tree nombreDirectorio		// crea un arbol con los directorios
+time				// hora del sistema
+date				// fecha del sistema
+ipconfig			// dir ip
+ipconfig /all			// dir ip de todas las tarjetas del sistema
+ping				// conexión con otras computadoras
+winword				// abre ms word
+for %x in (uno dos tres cuatro) do @echo %x

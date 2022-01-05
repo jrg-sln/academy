@@ -1,0 +1,14 @@
+Pseudocódigo de la serie de Fibonacci:
+
+INICIO
+num1, num2, suma : Entero
+ASIGNAR num1, suma = 0
+ASIGNAR num2=1
+ESCRIBIR "num1"
+ESCRIBIR "num2"
+HASTA_QUE suma >= 150
+   REALIZAR suma = num1 + num2
+   ESCRIBIR "suma"
+   ASIGNAR num1 = num2
+   ASIGNAR num2 = suma
+FIN_HASTA_QUE

@@ -1,0 +1,98 @@
+Cómo se sienten los alumnos cuando empiezan a utilizar linux:
+http://ubuntuone.com/1Ppt5IDpUlqURGygPAIzH9
+
+Cómo se sienten los alumnos cuando programan
+http://ubuntuone.com/5kEcciMsMIcSimQWpI15sX
+
+------------------ BASICOS -----------------
+whoami
+date
+cal
+ls
+ls -l
+ls -la
+uname
+uname -a
+mkdir
+ping
+eject (-t)
+top
+cd
+cd ..
+pwd
+cat
+cat /etc/passwd | more
+find
+man
+clear
+echo
+echo $SHELL
+sleep
+tree
+vi
+cp
+mv
+rm
+nslookup
+ifconfig
+firefox
+passwd
+find
+grep
+ping
+fstab
+mount
+exports
+whatis
+resolv.conf
+
+-------------------- En vi ------------------------
+Comandos de la última línea
+
+:q
+:w
+: w nombreArchivo	// Guarda
+:w! nombreArchivo	// Guarda y sobreescribe
+:wq
+:x
+:q!
+
+Movimiento del cursor
+
+K	// línea abajo
+J	// línea arriba
+H	// Carácter a la derecha
+L	// Carácter a la izquierda
+
+Retorno de carro	// Salto de línea
+w	// avanza una palabra
+b	// va al inicio de la palabra actual
+e	// va al fin de la palabra actual
+
+Buscar texto
+/cadena		// busca cadena hacia adelante
+?cadena		// busca la cadena hacia atrás
+set number y set nonumber
+
+Para remplazar:	s/lo que busco/lo que reemplazo/c
+Remplazar una línea:	s/lo que busco/lo que reemplazo/g
+Remplazar todo el documento: 	s/lo que busco/lo que remplazo/band
+---------------------------------------------------
+
+echo "Separa cada dos punto, la linea 1 y 7"
+cat /etc/passwd | grep bash | cut -d ':' -f 1,7
+
+echo "Cambia las mayusculas por minuscuculas"
+tr [A-Z] [a-z] < archivoTexto
+
+echo "Cambia las  minuscuculas por mayusculas"
+tr [a-z] [A-Z] < archivoTexto
+
+echo "Cambia las mayusculas por es"
+tr [A-Z] g < archivoTexto
+
+echo "Cambia las mayusculas de la A a la M por ges"
+tr [A-M] g < archivoTexto
+
+echo "Borra las mayusculas del archivo"
+tr -d [A-Z] < archivoTexto

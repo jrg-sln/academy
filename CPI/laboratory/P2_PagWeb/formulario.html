@@ -1,0 +1,54 @@
+<HTML>
+   <HEAD>
+      <TITLE>Ejercicio 8</TITLE>
+   </HEAD>
+   <BODY bgcolor="#009900">
+   <CENTER>
+   <H1>Formulario</H1>
+   	<FORM action="recibir_form.php" method="post">
+		<P>
+		<TABLE>
+		<TR>
+			<TH align="left">Nombre:</TH>
+			<TH align="left"><INPUT type="text" name="nombre" size="30"><BR></TH>
+		</TR>
+		<TR>
+			<TH align="left">Contraseña:</TH>
+			<TH align="left"><INPUT type="password" name="contra" size="15"></TH>
+		</TR>
+		<TR>
+			<TH align="left">email:</TH>
+			<TH align="left"><INPUT type="text" name="email"><BR></TH>
+		</TR>
+		<TR>
+			<TH><INPUT type="radio" name="sexo" value="Mujer">Mujer<BR></TH>
+			<TH><INPUT type="radio" name="sexo" value="Varón">Hombre<BR></TH>
+		</TR>
+		<TR>
+			<TH colspan="2">Actividad(es) favorita(s)</TH>
+		</TR>
+		<TR>
+			<TH align="left"><INPUT type="checkbox" name="correr" value="correr">Correr<BR></TH>
+			<TH align="left"><INPUT type="checkbox" name="cine" value="cine">Cine<BR></TH>
+		</TR>
+		<TR>
+			<TH align="left"><INPUT type="checkbox" name="viajar" value="viajar">Viajar<BR></TH>
+			<TH align="left"><INPUT type="checkbox" name="navegar" value="navegar">Navegar<BR></TH>
+		</TR>
+		</TABLE>
+		<BR>
+		<TEXTAREA name="eltexto" rows="15" cols="40">
+Aquí se pueden poner comentarios o sugerencias.
+		</TEXTAREA>
+		<BR><BR>
+		<BUTTON name="enviar" value="enviar" type="submit">
+			Enviar
+		</BUTTON>
+		<BUTTON name="reiniciar" type="reset">
+			Reinicializar
+		</BUTTON>
+		</P>
+	</FORM>
+	</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,29 @@
+win + r			// ejecutar
+win			// ventana inicio
+win + e			// explorador de win
+alt + espacio		// menú de la ventana principal
+alt + f4		// cerrar ventana actual
+win + f			// menú buscar
+win + m			// minimizar todas las ventanas
+win + d
+win + shift + m		// deshacer minimizar todo
+ctrl + esc		// mostrar menU Inicio
+alt + tab		// cambia entre programas abiertos
+win + tab		// cambia entre programas abiertos
+ctrl + z		// deshacer
+f5			// actualizar
+alt + letra subrayada	// selecciona el menú
+Con algUn elemento seleccionado
+ctrl + c		// copiar
+ctrl + v		// pegar
+ctrl + x		// cortar
+alt + enter		// propiedades del elemento
+f2			// cambiar nombre
+ctrl + e		// seleccionar todo
+Con algUn texto o palabra seleccionada
+shift + f3		// cambia mayúsculas y minúsculas
+ctrl + s		// subrayar
+ctrl + n		// negrita
+ctrl + k		// cursiva
+win + l			// cerrar sesión
+F2			// Renombrar

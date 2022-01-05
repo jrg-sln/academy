@@ -1,0 +1,5 @@
+En una reciente elección donde hubo cuatro candidatos. Se quiere 
+encontrar el número de votos correspodientes a cada candidato y
+el porcentaje que obtuvo respecto al total de votantes. El usuario
+tecleará los votos de manera desorganizada. La cantidad de votos
+es indefinida.

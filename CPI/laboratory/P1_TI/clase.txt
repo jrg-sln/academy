@@ -1,0 +1,21 @@
+Buscadores
+bing.com, google.com, yahoo.com, www.bingle.nu
+
+nslookup:
+209.85.225.103	Google
+132.248.59.142	LCP
+66.218.161.68	Hi5
+69.171.229.14	Facebook
+
+Buscar archivo hosts (en un buscador).
+
+Buscar PDF Converter.
+
+Graficar en google:
+x^2
+x^2+y^3*x+y^5
+sqrt(x^2+y^2)
+x^2-y^2
+x*y*sin(x*y)
+sin(x^2+y^2) from -2 to 2
+(sqrt(cos(x))*cos(200x)+sqrt(abs(x))-0.7)*(4-x*x)^0.01, sqrt(9-x^2), -sqrt(9-x^2) from -4.5 to 4.5

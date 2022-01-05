@@ -1,0 +1,19 @@
+1.1 ¿Qué significan las siglas HTML?
+1.2 ¿Para qué sirven los atributos?
+1.3 ¿Qué etiqueta se utiliza para hacer un comentario en HTML?
+1.4 Escribir la etiqueta, atributo y valor que permiten cambiar el color de fondo de una página web.
+1.5 Realizar una página web que contenga como titulo "Práctica 2".
+
+
+2.1 ¿Qué es HTML?
+2.2 Describir la forma genérica de una etiqueta con atributos.
+2.3 ¿Cuál es la etiqueta que define el tipo de documento?
+2.4 Escribir la etiqueta, atributo y valor que permiten insertar una imagen dentro de una página web.
+2.5 Realizar una página web que contenga como fondo de la página una imagen.
+
+
+3.1 ¿Para qué se utilizan las etiquetas?
+3.2 Mencionar 5 diferentes navegadores de páginas web.
+3.3 ¿Qué etiquetas definen el tamaño de la cabecera?
+3.4 Escribir la etiqueta, atributo y valor que permiten insertar una imagen de fondo de una página web.
+3.5 Realizar una página web que inserte una imagen dentro del contenido de la misma.

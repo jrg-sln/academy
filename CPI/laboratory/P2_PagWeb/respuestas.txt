@@ -1,0 +1,46 @@
+¿Qué significan las siglas HTML?
+lENGUAJE DE MARCADO DE HIPERTEXTO
+
+¿Qué es HTML?
+ES EL LENGUAJE QUE LOS NAVEGADORES UTILIZAN PARA MOSTRAR LAS PÁGINAS WEB
+AL USUARIO
+
+¿Para qué se utilizan las etiquetas?
+PARA INCLUIR TEXTOS, DIBUJOS, TABLAS, CABECERAS, ETC.
+
+¿Para qué sirven los atributos?
+PERMITEN DEFINIR CARACTERÍSTICAS DEL ELEMENTO AL QUE CALIFICAN
+
+Describir la forma genérica de una etiqueta con atributos.
+<ETIQUETA atributo1="valor1" atributo2="valor2"> </ETIQUETA>
+
+Mencionar 5 diferentes navegadores de páginas web.
+Mozilla firefox, mozilla, opera, k-meleon, netscape, amaya, internet explorer,
+browseX, off by one, chrome, etc.
+
+¿Qué etiqueta se utiliza para hacer un comentario en HTML?
+<!-- -->
+
+¿Cuál es la etiqueta que define el tipo de documento?
+<!DOCTYPE   >
+
+¿Qué etiquetas definen el tamaño de la cabecera?
+DE H1 A H6
+
+Escribir la etiqueta, atributo y valor que permiten cambiar el color de fondo
+de una página web.
+<BODY BGCOLOR="#000000">
+
+Escribir la etiqueta, atributo y valor que permiten insertar una imagen dentro
+de una página web.
+<IMG SRC="title.jpg">
+
+Escribir la etiqueta, atributo y valor que permiten insertar una imagen de
+fondo de una página web.
+<BODY BACKGROUND="nubes.gif">
+
+Realizar una página web que contenga como titulo "Práctica 2".
+
+Realizar una página web que contenga como fondo de la página una imagen.
+
+Realizar una página web que inserte una imagen dentro del contenido de la misma.
